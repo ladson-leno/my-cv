@@ -1,0 +1,22 @@
+{
+    "nome": "Ladson Leno",
+    "profissao": "Progamador / Publicitário",
+    "endereco": "Rua Jarangari, 53",
+    "email": "ladson-leno@hotmail.com",
+    "telefone": "(81) 99833-3572",
+    "skills": [
+        {
+            "nome": "Javascript",
+            "range": "70%"
+        },
+        {
+            "nome": "HTML",
+            "range": "80%"
+        },
+        {
+            "nome": "CSS",
+            "range": "90%"
+        }
+    ]
+}
+
