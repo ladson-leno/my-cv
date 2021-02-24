@@ -3,7 +3,7 @@
 ## Como rodar
 
 `npm install`
-`npm install nodemon -g` para instalar o nodemon globalmente
+`npm install nodemon -g` para instalar o nodemon globalmente rode
 `npm start` ou `nodemon app`
 
 aplicação rodando  PT 5000
